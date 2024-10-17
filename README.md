@@ -1,7 +1,7 @@
 # Online Retail Customer Churn Prediction Analysis
 
 ## Overview
-This project aims to analyze and predict customer churn in the online retail sector. By identifying the factors that contribute to customer loss, businesses can implement targeted strategies to improve customer retention and enhance overall profitability. The analysis utilizes various customer features, including demographics and purchasing behavior, to build a predictive model for churn.
+This project aims to analyze and predict customer churn in the online retail sector. By identifying the factors that contribute to customer loss, businesses can implement targeted strategies to improve customer retention and enhance overall profitability. The analysis utilizes various customer features, including demographics and purchasing behavior.
 
 ## Dataset Columns
 The dataset contains the following columns:
